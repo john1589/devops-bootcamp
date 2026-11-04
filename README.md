@@ -7,3 +7,4 @@ Belajar git workflow lokal.
 
 
 ## Diubah dari laptop
+## Diubah dari salinan kedua
